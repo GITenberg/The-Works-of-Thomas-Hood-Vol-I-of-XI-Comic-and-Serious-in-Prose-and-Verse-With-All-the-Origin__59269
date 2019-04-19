@@ -1,5 +1,8 @@
 _repo: The-Works-of-Thomas-Hood-Vol-I-of-XI-Comic-and-Serious-in-Prose-and-Verse-With-All-the-Origin__59269
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59269-h/images/cover.jpg
 creator:
   author:
     agent_name: Hood, Thomas
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '42752'
     url: http://www.gutenberg.org/2009/agents/42752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59269#The-Works-of-Thomas-Hood-Vol-I-of-XI-Comic-and-Serious-in-Prose-and-Verse-With-All-the-Origin_
 gutenberg_issued: '2019-04-13'
 gutenberg_type: Text
 identifiers:
