@@ -1,0 +1,39 @@
+_repo: The-Works-of-Thomas-Hood-Vol-I-of-XI-Comic-and-Serious-in-Prose-and-Verse-With-All-the-Origin__59269
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hood, Thomas
+    birthdate: 1799
+    deathdate: 1845
+    gutenberg_agent_id: '6181'
+    url: http://www.gutenberg.org/2009/agents/6181
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hood
+  editors:
+  - agent_name: Frances Freeling Broderip (née Hood)
+    gutenberg_agent_id: '50369'
+    url: http://www.gutenberg.org/2009/agents/50369
+  - agent_name: Hood, Tom
+    aliases:
+    - Hood, Thomas
+    - Hood, T. (Thomas)
+    birthdate: 1835
+    deathdate: 1874
+    gutenberg_agent_id: '42752'
+    url: http://www.gutenberg.org/2009/agents/42752
+description: ''
+gutenberg_issued: '2019-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Works of Thomas Hood; Vol. I (of XI)
+
+  Comic and Serious, in Prose and Verse, With All the Original
+
+  Illustrations'
+url: http://www.gutenberg.org/ebooks/59269
